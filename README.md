@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mufrat Karim Aritra
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin and mildly experienced in Java
+- 👀 I’m an expert in Android Development
+- 🌱 I’m experienced in Java and Kotlin
 - 💞️ I’m looking to collaborate on any entry level android projects
 - 📫 Contact me at mka.mufratkarimaritra@gmail.com
 
