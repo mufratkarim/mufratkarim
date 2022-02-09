@@ -11,8 +11,9 @@ Hello YOU! 👋
 - 💻 LinkedIn: [Connect](https://www.linkedin.com/in/mufrat-karim-aritra/)
 - 📄 Website: [Portfolio](https://mufratkarim.github.io/)
 
-# Languages
+# GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=compact&hide=javascript,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mufratkarim)](https://git.io/streak-stats)
 
 <!---
 mufratkarim/mufratkarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
