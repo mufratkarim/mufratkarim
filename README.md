@@ -12,7 +12,7 @@ Hello YOU! 👋
 - 📄 Website: [Portfolio](https://mufratkarim.github.io/)
 
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=compact&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=compact&hide=javascript,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mufratkarim/mufratkarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
