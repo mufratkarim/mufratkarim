@@ -8,11 +8,11 @@ Hello YOU! 👋
 
 # Contact
 - 📧 Mail: mka.mufratkarimaritra@gmail.com
-- 💻 LinkedIn: https://www.linkedin.com/in/mufrat-karim-aritra/
-- 📄 Website: https://mufratkarim.github.io/
+- 💻 LinkedIn: [Connect](https://www.linkedin.com/in/mufrat-karim-aritra/)
+- 📄 Website: [Portfolio](https://mufratkarim.github.io/)
 
-# Skills
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufratkarim)](https://github.com/anuraghazra/github-readme-stats)
+# Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mufratkarim/mufratkarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
