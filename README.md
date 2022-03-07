@@ -12,7 +12,7 @@ Hello YOU! 👋
 - 📄 Website: [Portfolio](https://mufratkarim.github.io/)
 
 # GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=compact&hide=javascript,css,kotlin,html&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=compact&hide=css,kotlin,html&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mufratkarim&theme=onedark)](https://git.io/streak-stats)
 
