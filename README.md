@@ -18,7 +18,7 @@ Hello YOU! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=pie&hide=css,scss,html&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mufratkarim)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mufratkarim&hide=css,scss,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
