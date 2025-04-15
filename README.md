@@ -6,7 +6,7 @@ Hello YOU! 👋
 - ✍🏽 Professionally my current designation is at Checkout 51. Previously, I worked at Citi Bank. 
 - 😔 Get in touch with me here: [Connect](https://www.linkedin.com/in/mufrat-karim-aritra/) 
 
-# GitHub Stats
+# Stats
 
 <table style="width:100%;">
   <tr>
