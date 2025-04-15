@@ -10,20 +10,23 @@ Hello YOU! 👋
 
 <table style="width:100%;">
   <tr>
-    <!-- Left column: two stacked stats cards -->
-    <td style="vertical-align:top; width:60%;">
-      <div style="display:flex; flex-direction:column;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=mufratkarim&theme=gruvbox_light&show_icons=true&hide=contribs,issues,prs&show=prs_merged_percentage" alt="GitHub Stats" width="100%"/>
-        </a>
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=mufratkarim&theme=ayu-light" alt="GitHub Streak" width="100%"/>
-        </a>
-      </div>
-    </td>
-    <td style="vertical-align:top; width:40%; text-align:center;">
+    <!-- Left column with 2 stacked images -->
+    <td style="width:50%; vertical-align:top;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=pie&hide=css,scss,html&theme=solarized-light" alt="Top Languages" style="max-width:100%; height:100%;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mufratkarim&theme=gruvbox_light&show_icons=true&hide=contribs,issues,prs&show=prs_merged_percentage" alt="GitHub Stats" width="100%" />
+      </a><br/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mufratkarim&theme=ayu-light" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+    <td style="width:50%; text-align:center; vertical-align:top;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufratkarim&layout=pie&hide=css,scss,html&theme=solarized-light" 
+          alt="Top Languages"
+          width="360" 
+          height="360"
+        />
       </a>
     </td>
   </tr>
