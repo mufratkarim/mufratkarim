@@ -14,6 +14,9 @@ Hello YOU! 👋
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=mufratkarim&theme=gruvbox_light&show_icons=true&hide=contribs,issues,prs&show=prs_merged_percentage" alt="GitHub Stats" />
       </a>
+     <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mufratkarim&theme=ayu-light" alt="GitHub Streak" />
+      </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -22,8 +25,6 @@ Hello YOU! 👋
     </td>
   </tr>
 </table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mufratkarim&theme=ayu-light)](https://git.io/streak-stats)
 
 <!---
 mufratkarim/mufratkarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
